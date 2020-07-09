@@ -8,7 +8,6 @@ Daniela Agueros!
 COP 3337 U04
 */
 
-
 /**
  * The Card class creates a card with a rank and a suit. 
 
